@@ -3,7 +3,7 @@
 	<ConfigVersions>
 		<Metadata name="CommonModule.ИнтернетПоддержкаПользователейКлиент" id="7eeaf138-6081-4ebd-87fc-5568eb942b95" configVersion="a2b591bf1c955cfd890acb72193daa702c6acfae"/>
 		<Metadata name="CommonModule.ИнтернетПоддержкаПользователейКлиент.Module" id="7eeaf138-6081-4ebd-87fc-5568eb942b95.0" configVersion="b38e83820104ba0e92316e9c8606664e65d98136"/>
-		<Metadata name="Configuration.ОтключениеИнтернетПоддержки" id="4f5490fa-bf01-49ee-9c79-5eea80a2d9cd" configVersion="6ea58cbd4f6f38265f3b95fb4c47fbf1573f6b61"/>
+		<Metadata name="Configuration.ОтключениеИнтернетПоддержки" id="4f5490fa-bf01-49ee-9c79-5eea80a2d9cd" configVersion="54ebb1fa1fb615e510ec9bf884431f2f3d870fa0"/>
 		<Metadata name="Language.Русский" id="ccbaccb9-4ee2-4d7a-91cf-10276f2d8e39" configVersion="0730228ac655c6eeae060b937c396b44aca0f081"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

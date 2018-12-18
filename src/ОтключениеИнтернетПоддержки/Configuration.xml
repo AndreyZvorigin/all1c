@@ -35,7 +35,7 @@
 					<v8:content>Отключение интернет поддержки</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>Расширение отключает проверку поддерки при запуске системы</Comment>
 			<ConfigurationExtensionPurpose>AddOn</ConfigurationExtensionPurpose>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<NamePrefix>Расш1_</NamePrefix>
@@ -46,7 +46,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version>1.0.0.0</Version>
+			<Version>1.0.0.1</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>

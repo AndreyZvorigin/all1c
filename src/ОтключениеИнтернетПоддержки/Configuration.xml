@@ -48,8 +48,18 @@
 			<Vendor/>
 			<Version>1.0.0.1</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
-			<BriefInformation/>
-			<DetailedInformation/>
+			<BriefInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Для удобства анализа типовых конфигураций</v8:content>
+				</v8:item>
+			</BriefInformation>
+			<DetailedInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Для удобства анализа типовых конфигураций</v8:content>
+				</v8:item>
+			</DetailedInformation>
 			<Copyright/>
 			<VendorInformationAddress/>
 			<ConfigurationInformationAddress/>
